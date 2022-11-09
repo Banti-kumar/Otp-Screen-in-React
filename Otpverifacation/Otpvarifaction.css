@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    margin-left: 450px;
+}
+
+.topimges{
+    margin-top: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.topotpveri{
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    margin: 5px 0px 0px 65px ;
+}
+h4{
+    margin: 8px 0px 0px 110px;
+}
+
+.texttop{
+    display: flex;
+}
+
+p{
+    margin: 50px 0px 0px 70px;
+}
+
+.topinpitsection{
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    height: fit-content;
+}
+
+
+input{
+    margin: 30px 20px 0px 0px;
+    width: 40px;
+    height: 40px;
+    outline: none;
+    border-radius: 4px;
+    text-align: center;
+}
+
+input:hover{
+    border: 1.6px solid blue;
+}
+
+.bottomtext{
+    display: flex;
+    flex-direction: column;
+}
+
+.bottomtextare{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+button{
+    padding: 10px;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: -85px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+}
+button:hover{
+    background-color: #3030fc;
+}
+
+.ing{
+    display: flex;
+}
